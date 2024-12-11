@@ -23,36 +23,6 @@ p {
 color: #0f4578;
 margin: 90px 0;
 text-align: center;  }
- .container {
-        display: flex;
-        justify-content: center;
-        background-image: url("https://us.123rf.com/450wm/julijuliart/julijuliart1609/julijuliart160900030/63118958-seamless-doodle-glaze-ice-cream-pattern-hand-drawn-dark-blue-vector-background-for-cards-invitations.jpg");
-        padding: 50px;}
-     @keyframes fade {
-    from {   opacity: 0;     }
-    to {        opacity: 1;       } }
-
-    .pic img {width: 50%;
-      display: block;
-      margin: 0 auto;      }
--
-      .box2, .box3, .box, .box4{
-        width: 400px;
-        height: 400px;
-        background-position: center center;
-        background-size: cover;
-        margin: 20px;
-        border-radius: 30%;
-        transition: transform 0.3s ease; /* Додаємо плавний перехід */        }
-     
-       .box2 {
-        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/d6455748-2182-4b83-a17b-35b27aeab52b/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-22-153357.png");}
-       .box3 {
-        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/94389f5c-8fa0-48bb-80e8-f2658b251b0c/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-22-153357.png");}
-       .box4 {
-        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");}
-       .box {
-        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/1991af33-a7a9-4a32-bc43-a4704c0b594c/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-22-153357.png");}
 header{
   background-image: url('https://rud.ua/uploads/useful_info/5cc173f84db05.jpg');
   background-size: cover;
@@ -86,6 +56,37 @@ color: blue;}
 nav a:hover{
   background: rgba(255, 255, 0, 0.13);
   color: rgba(34, 23, 232);}
+.container {
+        display: flex;
+        justify-content: center;
+        background-image: url("https://us.123rf.com/450wm/julijuliart/julijuliart1609/julijuliart160900030/63118958-seamless-doodle-glaze-ice-cream-pattern-hand-drawn-dark-blue-vector-background-for-cards-invitations.jpg");
+        padding: 50px;        }
+     
+      .box2, .box3, .box, .box4{
+        width: 400px;
+        height: 400px;
+        background-position: center center;
+        background-size: cover;
+        margin: 20px;
+        border-radius: 30%;
+        transition: transform 0.3s ease; /* Додаємо плавний перехід */        }
+     
+      .box2 {
+        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/096ab620-70c2-47df-9775-3aefc10be37c/blue_ice_cream-2024-09-05-124728.png");  }
+     
+      .box3 {
+        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");     }
+      .box4 {
+        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");     }
+     
+      .box {
+        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");     }
+
+
+      .box2:hover, .box3:hover, .box:hover, .box4:hover {
+        transform: scale(1.1);      }
+
+
 
 .gr-box2 {
   grid-column: 2;
