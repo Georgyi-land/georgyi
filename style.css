@@ -72,15 +72,15 @@ nav a:hover{
         transition: transform 0.3s ease; /* Додаємо плавний перехід */        }
      
       .box2 {
-        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/096ab620-70c2-47df-9775-3aefc10be37c/blue_ice_cream-2024-09-05-124728.png");  }
+        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/5f20a89d-02e9-47bd-96e4-cd1b1cd823c4/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-23-100319.png");  }
      
       .box3 {
-        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");     }
+        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/08ba39ab-e272-44d0-878d-cfc792f71e02/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-23-100319.png");     }
       .box4 {
-        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");     }
+        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/1991af33-a7a9-4a32-bc43-a4704c0b594c/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-22-153357.png");     }
      
       .box {
-        background-image: url("https://app.layer.ai/media/workspaces/aa16e6a2-4e09-45ee-b6b6-36f814ce2250/files/5a57f6c8-58d1-44f4-afd5-eb5aa93359ab/3_blue_ice_cream_transparent_background-2024-09-03-183336.png");     }
+        background-image: url("https://app.layer.ai/media/workspaces/96f746e5-66dd-4ad5-a211-302d9aa0a265/files/d6455748-2182-4b83-a17b-35b27aeab52b/closeup_shot_of_a_whimsical_blue_ice_cream_cone_vibrant_shades_of_icy-2024-11-22-153357.png");     }
 
 
       .box2:hover, .box3:hover, .box:hover, .box4:hover {
